@@ -33,4 +33,6 @@ fi
     $OPTS \
     --unattended
 
+./run.sh
+
 $@
